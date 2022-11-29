@@ -1,0 +1,15 @@
+---
+layout: preprint
+title:  "Safety Index Synthesis via Sum-of-Squares Programming"
+date:   2022-11-25 00:00:00 +00:00
+image: /images/polynomial_transparent.png
+categories: research
+author: "Simin Liu"
+authors: "Weiye Zhao, Tairan He, Tianhao Wei, <strong>Simin Liu</strong>, and Changliu Liu"
+venue: "In submission to 2023 American Controls Conference"
+arxiv: https://arxiv.org/abs/2209.09134
+[//]: # (slides: /pdfs/neural_cbf_slides.pdf)
+[//]: # (code: https://github.com/sliu2019/input_limit_cbf)
+---
+
+Safety indices (control barrier functions) can be used to straightforwardly produce a safe controller. However, it is often difficult to design a valid safety index in the first place. We propose an improved method for automatically designing safety indices for polynomial systems using sum-of-squares programming. 

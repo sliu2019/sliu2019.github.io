@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning"
+date:   2018-05-03 00:00:00 +00:00
+image: /images/roach_leg_crop.jpg
+categories: research
+author: "Simin Liu"
+authors: "Anusha Nagabandi<sup>*</sup>, Ignasi Clavera<sup>*</sup>, <strong>Simin Liu</strong>, Ronald Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn"
+venue: "International Conference on Learning Representations"
+website: https://sites.google.com/berkeley.edu/metaadaptivecontrol
+arxiv: https://arxiv.org/abs/1803.11347
+code: https://github.com/iclavera/learning_to_adapt
+---
+
+The system dynamics of robots can sometimes change online (e.g. as the environment changes). To deal with this, we consider adapting a neural dynamics model online. We propose to meta-learn a model initialization and update it online with gradient descent. This scheme can adapt very well after just a few samples of data. We show that a legged millirobot using this scheme can adapt to dynamics that change with terrain, payload, and wear-and-tear.
