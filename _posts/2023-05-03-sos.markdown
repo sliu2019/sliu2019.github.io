@@ -6,7 +6,7 @@ image: /images/polynomial_transparent.png
 categories: research
 author: "Simin Liu"
 authors: "Weiye Zhao, Tairan He, Tianhao Wei, <strong>Simin Liu</strong>, and Changliu Liu"
-venue: "In submission to 2023 American Controls Conference"
+venue: "American Controls Conference, 2023"
 arxiv: https://arxiv.org/abs/2209.09134
 [//]: # (slides: /pdfs/neural_cbf_slides.pdf)
 [//]: # (code: https://github.com/sliu2019/input_limit_cbf)

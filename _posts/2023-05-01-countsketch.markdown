@@ -5,8 +5,8 @@ date:   2022-11-24 00:00:00 +00:00
 image: /images/countsketch_transparent.png
 categories: research
 author: "Simin Liu"
-authors: "Yi Li, Honghao Lin, <strong>Simin Liu</strong>, Ali Vakilian, David Woodruff"
-venue: "In submission to 2023 International Conference on Learning Representations"
+authors: "Yi Li, Honghao Lin, <strong>Simin Liu</strong>, Ali Vakilian, David Woodruff (alphabetical order)"
+venue: "International Conference on Learning Representations, 2023"
 [//]: # (arxiv: https://arxiv.org/abs/1904.05537)
 [//]: # (slides: /pdfs/crv19-slides.pdf)
 [//]: # (code: https://github.com/leonidk/direct_gmm)

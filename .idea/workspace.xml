@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee337a36-a2a8-4924-ab83-7155e78b2451" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-05-01-countsketch.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-05-01-countsketch.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-05-03-sos.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-05-03-sos.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,7 @@
       <workItem from="1669598771959" duration="75000" />
       <workItem from="1670454700959" duration="494000" />
       <workItem from="1671079547375" duration="149000" />
+      <workItem from="1679970282754" duration="183000" />
     </task>
     <servers />
   </component>
@@ -90,16 +94,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
