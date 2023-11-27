@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Safety Index Synthesis via Sum-of-Squares Programming"
+date:   2023-02-01 00:00:00 +00:00
+image: /images/sos_2Drobotarm_crop.png
+categories: research
+author: "Simin Liu"
+authors: "Weiye Zhao, Tairan He, Tianhao Wei, Simin Liu, and Changliu Liu"
+venue: "American Controls Conference"
+arxiv: https://arxiv.org/abs/2209.09134
+[//]: # (slides: /pdfs/neural_cbf_slides.pdf)
+[//]: # (code: https://github.com/sliu2019/input_limit_cbf)
+---
+
+Safety indices, also called control barrier functions (CBFs), are popularly used for safe reactive control. However, for all but the simplest systems, it's hard to find a valid CBF in the first place. We devise an optimization algorithm that can automatically generate a CBF for any moderate-sized, polynomial-equivalent system. This includes simplified vehicles and manipulators.

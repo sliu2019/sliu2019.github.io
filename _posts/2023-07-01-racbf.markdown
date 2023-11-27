@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Synthesis and Verification of Robust-Adaptive Safe Controllers"
+date:   2023-08-01 00:00:00 +00:00
+image: /images/quad2d_track_raCBF_vs_rCBF.jpg
+categories: research
+author: "Simin Liu"
+authors: "Simin Liu<sup>*</sup>, Kai Yun<sup>*</sup>, John M Dolan, Changliu Liu"
+venue: "Under submission to European Controls Conference"
+arxiv: https://arxiv.org/abs/2311.00822
+---
+
+One major drawback of prior work is that it cannot satisfactorily handle model uncertainty. We designed an optimization algorithm for generating robust-adaptive safe controllers, which account for uncertainty without producing over-conservative behavior. Ultimately, our controller allows for 55% better control performance while still ensuring safety as compared to popular baselines.  
