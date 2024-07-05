@@ -6,7 +6,7 @@ image: /images/quad2d_track_raCBF_vs_rCBF.jpg
 categories: research
 author: "Simin Liu"
 authors: "Simin Liu<sup>*</sup>, Kai Yun<sup>*</sup>, John M Dolan, Changliu Liu"
-venue: "Under submission to European Controls Conference"
+venue: "European Controls Conference, 2024"
 arxiv: https://arxiv.org/abs/2311.00822
 ---
 
