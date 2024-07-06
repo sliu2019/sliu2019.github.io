@@ -4,7 +4,6 @@
     <list default="true" id="ee337a36-a2a8-4924-ab83-7155e78b2451" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-07-01-racbf.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-07-01-racbf.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,8 @@
       <workItem from="1670454700959" duration="494000" />
       <workItem from="1671079547375" duration="149000" />
       <workItem from="1679970282754" duration="795000" />
-      <workItem from="1720179160087" duration="665000" />
+      <workItem from="1720179160087" duration="1188000" />
+      <workItem from="1720263177406" duration="318000" />
     </task>
     <servers />
   </component>
@@ -94,16 +94,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
